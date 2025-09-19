@@ -1,0 +1,5 @@
+{
+  "name": "React Tetris",
+  "description": "A classic Tetris game built with React, TypeScript, and Tailwind CSS. Features standard gameplay mechanics including block rotation, line clearing, scoring, and increasing difficulty.",
+  "requestFramePermissions": []
+}
